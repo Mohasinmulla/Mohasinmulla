@@ -58,20 +58,15 @@
 <div align="left">
 
 <a href="https://linkedin.com/in/mohasin861" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="70" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="80" />
 </a>
 
 <img width="12" />
 
 <a href="mailto:mohasinmulla861@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="70" />
+  <img src="https://skillicons.dev/icons?i=gmail" height="80" />
 </a>
 
-<img width="12" />
-
-<a href="https://github.com/Mohasinmulla" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" height="70" />
-</a>
 
 </div>
 
